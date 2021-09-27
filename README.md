@@ -2,7 +2,7 @@
 https://github.com/nk6june/dvc-ML-demo-AIOps
 
 ## Workflow:
-![](/images/simple-workflow-01%402x.png)
+![](others/images/simple-workflow-01@2x.png)
 
 # STEPS
 
