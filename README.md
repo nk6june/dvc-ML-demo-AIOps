@@ -1,8 +1,9 @@
 ## Reference repo
 https://github.com/nk6june/dvc-ML-demo-AIOps
 
-workflow:
-
+## Workflow:
+![GitHub Logo](/images/simple-workflow-01@2x.png)
+Format: ![Alt Text](url)
 
 # STEPS
 
